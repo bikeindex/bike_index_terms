@@ -36,7 +36,7 @@ Our Service helps you quickly and easily register bikes for your customers, and 
 
 ### 2. Payment Terms.
 
-Customers pay you \$9.00 for every bike you register through our service. On a monthly schedule the Bike Index will bill you \$4.00 for each bike you registered in that billing period.
+Customers pay you &#36;9.00 for every bike you register through our service. On a monthly schedule the Bike Index will bill you &#36;4.00 for each bike you registered in that billing period.
 
 Payment to the Bike Index is required within 14 days of the end of your billing period, or by the due date of the invoice we send to you (whichever date is later). If any amount of the bill remains unpaid after this due date, Bike Index will deactivate your ability to register new bikes until the remaining payments are made.
 
