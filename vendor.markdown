@@ -82,6 +82,7 @@ We reserve the right to not authorize or settle any transaction you submit which
 
 You agree that Bike Index can provide disclosures and notices regarding the Service to you by posting such disclosures and notices on our website, emailing them to the email address listed in your Bike Index account, or mailing them to the address listed in your Bike Index Vendor Account. You also agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices shall be considered to be received by you within 24 hours of the time it is posted to our website or emailed to you unless we receive notice that the email was not delivered.
 
+
 ### 11. References to Our Relationship
 
 You agree, from the time that you accept this Agreement with Bike Index until you terminate your account with us, that we may identify you as a Vendor of Bike Index. Neither you nor we will imply any untrue sponsorship, endorsement or affiliation between you and Bike Index. You give us permission to post information on our website regarding your business including but not limited to it's name, location, and phone number.
