@@ -54,8 +54,6 @@ Bike Index is responsible for protecting the security of user data in our posses
 
 ### 5. Taxes
 
-(I believe this section is too loose. I think we ought to explain that we are currently only offering a service, and promise that we have correctly reported what service we are offering, but that we hold them responsible for taxes.)
-
 It is your responsibility to determine what, if any, taxes apply to the sale of our service to your customers and the payments you receive in connection with your use of the service ("Taxes"). It is solely your responsibility to assess, collect, report, or remit the correct tax to the proper tax authority. We are not obligated to, nor will we determine whether Taxes apply, or calculate, collect, report, or remit any Taxes to any tax authority arising from any transaction. You acknowledge that we may make certain reports to tax authorities regarding transactions that we process and merchants to which we provide card payment services.
 
 Pursuant to the Internal Revenue Code, merchant acquiring entities and third party settlement organizations are required to file an information return with the IRS for each calendar year, reporting all payment card transactions and third party network transactions with merchants occurring in that calendar year. You acknowledge that we will report to the Internal Revenue Service the total amount of the payments you receive each calendar year as required by law.
