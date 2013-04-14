@@ -2,7 +2,7 @@
 
 # Terms of Service for Vendors
 
-Last updated April 2nd, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
+Last updated April 14th, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
 
 ---
 
@@ -11,11 +11,11 @@ Last updated April 2nd, 2013. Previous versions and the change history is [avail
 
 ## About our terms of service for vendors
 
-**Welcome to the Bike Index**. We developed a publicly-accessible bike registration service (the "Service") that gives you the ability to quickly and easily register bikes for your customers, because we believe that such a service will deter bike theft.
+**Welcome to the Bike Index**. We developed a publicly-accessible bike registration service (the "Service") that gives you the ability to quickly and easily register bikes for your customers. We believe that such a service will deter bike theft.
 
-By putting bike shop employees and proprietors (the "Vendors") in charge of adding bikes to the service we aim to involve biking communities, support bike shops, and ensure accurate registrations. We have tried to draft this Terms of Service For Vendors to be as simple and comprehensible as possible. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or simply want to better understand how we do things at the Bike Index, please do not hesitate to [contact us](https://www.bikeindex.org/contact_us).
+By putting bike shop employees and proprietors (the "Vendors") in charge of adding bikes to the service we aim to involve biking communities, support bike shops, and ensure accurate registrations. We have tried to draft this Terms of Service For Vendors to be as simple and comprehensible as possible. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns, or simply want to better understand how we do things at the Bike Index, please do not hesitate to [contact us](https://www.bikeindex.org/contact_us).
 
-Below is a quick description of the sections in this Agreement where we attempt to explain the important parts of our service, but there are important details in the whole document, so you should read it.
+With the following brief descriptions of the parts of this Agreement, we attempt to explain the important parts of our service. But there are significant details in the whole document that make it worth reading.
 
 ## Bike Index Vendor Service
 
@@ -23,7 +23,7 @@ We provide you with a service to register the bikes you interact with; we will r
 
 ## Charges for the Service
 
-There is no initial fee, you only pay for the bikes you register on our service. You are billed on a monthly schedule (the "Billing period") for each bike you registered during that billing period. You can choose to fulfill this obligation through automatic billing or by manually entering payment details for each bill. The Bike Index exclusively accepts vendor payments through our online interface. <a href="#section_b" class="arrow">Complete details</a>
+There is no initial fee, you only pay for the bikes you register on our service. You are billed on a monthly schedule (the "Billing period") for each bike you register during that billing period. You can choose to fulfill this obligation through automatic billing or by manually entering payment details for each bill. The Bike Index exclusively accepts vendor payments through our online interface. <a href="#section_b" class="arrow">Complete details</a>
 
 ## Becoming a Vendor on the Bike Index
 
@@ -41,7 +41,7 @@ The Terms and Conditions described here constitute a legal agreement ("Agreement
 
 1. ### Our Role
 
-    Our Service helps you quickly and easily register bikes for your customers, and give customers the ability to modify most aspects of their registrations. You will be required to register with Bike Index to use the Bike Index Vendor Service (see Becoming a Bike Index Vendor). In addition, we do not assume any liability for bicycles, tricycles or other types of crafts (collectively "Bikes") registered through our Service.
+    Our Service helps you quickly and easily register bikes for your customers, and gives customers the ability to modify most aspects of their registrations. You will be required to register with Bike Index to use the Bike Index Vendor Service (see Becoming a Bike Index Vendor). In addition, we do not assume any liability for bicycles, tricycles or other types of crafts (collectively "Bikes") registered through our Service.
 
 2. ### Customer Service
 
@@ -49,7 +49,7 @@ The Terms and Conditions described here constitute a legal agreement ("Agreement
 
 3. ### Security
 
-    Bike Index is responsible for protecting the security of user data in our possession and will maintain commercially reasonable administrative, technical and physical procedures to protect all the personal information regarding you and your customers that is stored in our servers from unauthorized access and accidental loss or modification. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use such personal information for improper purposes. You acknowledge that you provide this personal information regarding you and your customers at your own risk. We recommend you review our [Privacy Policy](https://bikeindex.org/privacy), which will help you understand how we collect, use and safeguard the information you provide to us.
+    Bike Index is responsible for protecting the security of user data in our possession from unauthorized access and accidental loss or modification. We will maintain commercially reasonable administrative, technical and physical procedures to protect all the personal information regarding you and your customers that is stored in our servers. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use such personal information for improper purposes. You acknowledge that you provide this personal information regarding you and your customers at your own risk. We recommend you review our [Privacy Policy](https://bikeindex.org/privacy), which will help you understand how we collect, use and safeguard the information you provide to us.
 
 4. ### Taxes
 
