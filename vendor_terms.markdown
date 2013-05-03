@@ -2,7 +2,7 @@
 
 # Terms of Service for Vendors
 
-Last updated April 14th, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
+Last updated May 1nd, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
 
 ---
 
