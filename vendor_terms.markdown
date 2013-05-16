@@ -2,7 +2,7 @@
 
 # Terms of Service for Vendors
 
-Last updated May 1nd, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
+Last updated May 15th, 2013. Previous versions and the change history is [available here](https://github.com/sethherr/bike_index_terms).
 
 ---
 
@@ -89,7 +89,7 @@ The Terms and Conditions described here constitute a legal agreement ("Agreement
 
 1. ### Payment Terms
 
-    You agree to charge customers &#36;9.00 for every bike you register for them through our service. On a monthly schedule the Bike Index will bill you &#36;4.00 for each bike you registered in that billing period.
+    You agree to charge customers &#36;5.00 for every bike you register for them through our service. On a monthly schedule the Bike Index will bill you &#36;1.00 for each bike you registered in that billing period.
 
     Payment to the Bike Index is required within 14 days of the end of your billing period, or by the due date of the invoice we send to you (whichever date is later). If any amount of the bill remains unpaid after this due date, Bike Index will deactivate your ability to register new bikes until the remaining payments are made.
 
